@@ -1,0 +1,52 @@
+Employee Name: rohan
+Base Salary: 1000000
+Increment: 10%
+Salary after increment: 1100000.0
+
+--- New Employee ---
+Employee Name: hero
+Base Salary: 1000000
+Increment: 13%
+Salary after increment: 1130000.0
+
+--- New Employee ---
+Employee Name: JASPREET SINGH
+Base Salary: 1000000
+Increment: 12%
+Salary after increment: 1120000.0
+
+--- New Employee ---
+Employee Name: hlo
+Base Salary: 10
+Increment: 10%
+Salary after increment: 11.0
+
+--- New Employee ---
+Employee Name: HERO
+Base Salary: 1000000
+Increment: 10%
+Salary after increment: 1100000.0
+
+--- New Employee ---
+Employee Name: hlo
+Base Salary: 0
+Increment: 0%
+Salary after increment: 0.0
+
+--- New Employee ---
+Employee Name: jas
+Base Salary: 0
+Increment: 0%
+Salary after increment: 0.0
+
+--- New Employee ---
+Employee Name: 0)0
+Base Salary: 0
+Increment: 0%
+Salary after increment: 0.0
+
+--- New Employee ---
+Employee Name: 0
+Base Salary: 0
+Increment: 0%
+Salary after increment: 0.0
